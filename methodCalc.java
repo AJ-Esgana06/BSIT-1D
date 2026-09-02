@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class methodCalc {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter num1");
@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Enter num1");
         double num2 = sc.nextInt();
         System.out.println("Select an Operation 1. Addition, 2. Subtraction, 3. Multiplication, 4. Division");
-        char O}perator = sc.next().charAt(0);
+        char Operator = sc.next().charAt(0);
         switch (Operator) {
             case '1':
                 Add(num1, num2);

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Act {
     static Scanner sc = new Scanner(System.in);
     public static void main (String[] args) {
     String Name;
@@ -23,6 +23,5 @@ public class Main {
     System.out.println("Age: " + Age);
     System.out.println("Height: " + Height);
     System.out.println("Weight: " + Weight);
-    System.out.println("Name: " + Name);
     }
 }

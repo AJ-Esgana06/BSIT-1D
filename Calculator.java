@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Calculator {
     static Scanner sc = new Scanner(System.in);
     public static void main (String[] args) {
         //Login page

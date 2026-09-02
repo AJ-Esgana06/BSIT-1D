@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class FirstFit {
+public class PLAT {
     static class Partition {
         int partitionNumber;
         int size;
